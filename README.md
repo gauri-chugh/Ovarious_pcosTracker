@@ -22,9 +22,10 @@ A mobile app crafted to empower individuals with PCOS.
 
 ## Download & Install
 First, clone the repository with the 'clone' command.
-'''bash
-  $ git clone https://github.com/gauri-chugh/Ovarious-pcosTracker.git
-'''
+
+```bash
+$ git clone https://github.com/gauri-chugh/Ovarious_pcosTracker.git
+```
 
 Then, download Android Studio, There you go, and you can now open & edit the project. Enjoy!
 
