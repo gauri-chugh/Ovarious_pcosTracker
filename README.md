@@ -1,6 +1,6 @@
-# ovarious
+# Ovarious
 
-A new Flutter project.
+A mobile app crafted to empower individuals with PCOS and promote overall menstrual health through personalized recommendations, tracking tools, educational resources, and a supportive community.
 
 ## Getting Started
 
